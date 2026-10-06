@@ -101,7 +101,7 @@ export default function Home() {
       '@type': 'Offer',
       'url': 'https://sarvamanghalarakshai.com',
       'priceCurrency': 'INR',
-      'price': '999',
+      'price': '1499',
       'availability': 'https://schema.org/InStock',
       'priceValidUntil': '2027-12-31'
     }
