@@ -49,7 +49,7 @@ export default function ShippingPolicy() {
               <strong className="text-deep-maroon">Advance Payment Required:</strong> COD orders require a mandatory <strong>₹300 advance payment</strong> via our online payment gateway (Razorpay). This advance is non-refundable and is part of your total order cost.
             </li>
             <li>
-              <strong className="text-deep-maroon">COD Pricing:</strong> The total price for COD orders is <strong>₹1,299</strong> (₹999 product price + ₹300 COD convenience charge). The ₹300 is paid in advance online, and the remaining <strong>₹999</strong> is collected at the time of delivery.
+              <strong className="text-deep-maroon">COD Pricing:</strong> The total price for COD orders is <strong>₹1799</strong> (₹1499 product price + ₹300 COD convenience charge). The ₹300 is paid in advance online, and the remaining <strong>₹1499</strong> is collected at the time of delivery.
             </li>
             <li>
               <strong className="text-deep-maroon">No COD Without Advance:</strong> Orders placed without the ₹300 advance payment cannot avail Cash on Delivery. The advance payment ensures order commitment and reduces fraudulent/return-to-origin shipments.
