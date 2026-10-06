@@ -24,7 +24,7 @@ import WhatsAppButton from '@/components/WhatsAppButton';
 
 export default function Home() {
   const [quantity, setQuantity] = useState(1);
-  const basePrice = 999; // ₹999 base product price
+  const basePrice = 1499; // ₹1499 base product price
 
   // FAQ Accordion State
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
