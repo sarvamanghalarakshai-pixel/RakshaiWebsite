@@ -52,7 +52,7 @@ export default function Home() {
     },
     {
       q: "என்ன கட்டண முறைகள் உள்ளன?",
-      a: "நாங்கள் இரண்டு கட்டண முறைகளை வழங்குகிறோம்: (1) Razorpay மூலம் ₹999 முழு ஆன்லைன் கட்டணம் (கிரெடிட்/டெபிட் கார்டு, UPI, நெட் பேங்கிங், வாலட்). (2) கேஷ் ஆன் டெலிவரி (COD) — ஆன்லைனில் ₹300 முன்பணம் செலுத்தி, மீதி ₹999 டெலிவரி சமயம் வழங்கலாம். COD மொத்தம் ₹1,299.",
+      a: "நாங்கள் இரண்டு கட்டண முறைகளை வழங்குகிறோம்: (1) Razorpay மூலம் ₹1499 முழு ஆன்லைன் கட்டணம் (கிரெடிட்/டெபிட் கார்டு, UPI, நெட் பேங்கிங், வாலட்). (2) கேஷ் ஆன் டெலிவரி (COD) — ஆன்லைனில் ₹300 முன்பணம் செலுத்தி, மீதி ₹1499 டெலிவரி சமயம் வழங்கலாம். COD மொத்தம் ₹1,299.",
     },
     {
       q: "எங்கெல்லாம் டெலிவரி கிடைக்கும், எவ்வளவு நேரம் ஆகும்?",
@@ -387,7 +387,7 @@ export default function Home() {
                 {/* Payment options badge */}
                 <div className="mt-3 flex flex-wrap gap-2">
                   <span className="text-xs bg-green-50 text-green-700 font-semibold px-2.5 py-1 rounded border border-green-200">
-                    💳 Online: ₹999
+                    💳 Online: ₹1499
                   </span>
                   <span className="text-xs bg-orange-50 text-orange-700 font-semibold px-2.5 py-1 rounded border border-orange-200">
                     🚚 COD: ₹1,299 (₹300 advance)
